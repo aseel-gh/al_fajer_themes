@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include al_fajer_themes *.css
+recursive-include al_fajer_themes *.csv
+recursive-include al_fajer_themes *.html
+recursive-include al_fajer_themes *.ico
+recursive-include al_fajer_themes *.js
+recursive-include al_fajer_themes *.json
+recursive-include al_fajer_themes *.md
+recursive-include al_fajer_themes *.png
+recursive-include al_fajer_themes *.py
+recursive-include al_fajer_themes *.svg
+recursive-include al_fajer_themes *.txt
+recursive-exclude al_fajer_themes *.pyc
