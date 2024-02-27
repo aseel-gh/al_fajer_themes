@@ -6,6 +6,8 @@ app_publisher = "Asil"
 app_description = "ERPnext 14 app"
 app_email = "aseel.gharbia@gmail.com"
 app_license = "MIT"
+# app_logo_url = "/assets/al_fajer_themes/imgs/logo-dark.png"
+# app_color = "#b11226"
 
 # Includes in <head>
 # ------------------
@@ -215,3 +217,8 @@ app_license = "MIT"
 # auth_hooks = [
 #	"al_fajer_themes.auth.validate"
 # ]
+
+
+# website_context = {
+# "favicon": "/assets/al_fajer_themes/imgs/logo-dark.png",
+# "splash_image": "/assets/al_fajer_themes/imgs/logo-dark.png",}
