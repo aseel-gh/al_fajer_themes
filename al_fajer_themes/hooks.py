@@ -9,6 +9,7 @@ app_license = "MIT"
 # app_logo_url = "/assets/al_fajer_themes/imgs/logo-dark.png"
 # app_color = "#b11226"
 
+
 # Includes in <head>
 # ------------------
 
